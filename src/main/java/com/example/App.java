@@ -1,6 +1,6 @@
 package com.example;
 
-public class App {
+public class cd App {
     public static void main(String[] args) {
         System.out.println("Hello, Maven");
         System.out.println("This is the simple realworld example....");
